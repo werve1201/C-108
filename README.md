@@ -1,2 +1,2 @@
-# C-108
-c-108
+# Normal-Distribution
+solution for c108
